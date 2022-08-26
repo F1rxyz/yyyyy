@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6285806459088@s.whatsapp.net"],
+  "ownerName": ["Firxyz"],
+  "botName": "ShellTear:3",
+  "buttonName": "Mobile Legends",
+  "buttonLink": "Saber`Alterr",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/f1rxyz",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 4,
+  "gcount": {
+	"prem": 99999,
+	"user": 4
+  }
+}
